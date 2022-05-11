@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "contract_address",
+  "SCAN_LINK": "https://etherscan.com/token/contract_address",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "ANGELS CLUB",
+  "SYMBOL": "ACT",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 250000000000000000,
+  "DISPLAY_COST": 0.25,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/collection_name",
+  "SHOW_BACKGROUND": true
+}
